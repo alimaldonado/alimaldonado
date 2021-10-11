@@ -1,5 +1,13 @@
 ### Hi there 👋 I'm Ali
-And I'm a Backend Developer. I love working with SQL databases, APIs and server-side code. 
+<p>
+            And I'm a Web Developer with 2+ years of experience, developing the
+            backend for steady enterprise level applications. I love working
+            with SQL databases, APIs and server-side code.
+          </p>
+          <p>
+            My goal everyday is delivering not only high quality code, but
+            useful solutions for each purpose.
+          </p> 
 <!--
 **alimaldonado/alimaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
