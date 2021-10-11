@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Ali
+And I'm a Backend Developer. I love working with SQL databases, APIs and server-side code. 
 <!--
 **alimaldonado/alimaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
