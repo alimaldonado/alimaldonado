@@ -1,13 +1,12 @@
-### Hi there 👋 I'm Ali
-<p>
-            And I'm a Web Developer with 2+ years of experience, developing the
-            backend for steady enterprise level applications. I love working
-            with SQL databases, APIs and server-side code.
-          </p>
-          <p>
-            My goal everyday is delivering not only high quality code, but
-            useful solutions for each purpose.
-          </p> 
+# Hi there 👋 I'm Ali...
+
+and I'm a Web Developer from México.
+
+- 🔭 I’m currently working on a Gatsby JS tutorial. Stay tuned!...
+- 🌱 I’m currently learning everything!!! but right now I'm hyped by [FastAPI](https://github.com/tiangolo/fastapi), and [Rust](https://github.com/rust-lang/rust)
+- ~~💬 Ask me about Your Car's Extended Warranty~~
+- ⚡ Fun fact: I love *American Gods*, *Lord of the Rings* and  *Song of Ice and Fire* (GoT TV show's ending was lame, tho)
+- 📫 How to reach me: comming soon...
 <!--
 **alimaldonado/alimaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
