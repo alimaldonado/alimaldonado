@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ali...
 
-and I'm a Web Developer from México.
+and I'm a Web Developer from México 🤠
 
 - 🔭 I’m currently working on a [FastAPI fullstack sample project](https://github.com/alimaldonado/cleanings-app)!...
 - 🌱 I’m currently learning everything!!! but right now I'm hyped by [FastAPI](https://github.com/tiangolo/fastapi), and [Rust](https://github.com/rust-lang/rust)
